@@ -1,0 +1,7 @@
+public class Main {
+    // The main method is the starting point of any Java program
+    public static void main(String[] args) {
+        // This line prints text to the console
+        System.out.println("Hello, World!");
+    }
+}
